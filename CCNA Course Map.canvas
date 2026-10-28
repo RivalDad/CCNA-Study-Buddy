@@ -1,0 +1,389 @@
+{
+  "nodes": [
+    {
+      "id": "home",
+      "type": "file",
+      "file": "00 - CCNA Home.md",
+      "x": 0,
+      "y": 0,
+      "width": 360,
+      "height": 220,
+      "color": "5"
+    },
+    {
+      "id": "fund",
+      "type": "file",
+      "file": "03 - MOCs/Fundamentals MOC.md",
+      "x": 520,
+      "y": -500,
+      "width": 340,
+      "height": 170,
+      "color": "4"
+    },
+    {
+      "id": "eth",
+      "type": "file",
+      "file": "03 - MOCs/Ethernet MOC.md",
+      "x": 520,
+      "y": -250,
+      "width": 340,
+      "height": 170,
+      "color": "2"
+    },
+    {
+      "id": "ipv4",
+      "type": "file",
+      "file": "03 - MOCs/IPv4 and Subnetting MOC.md",
+      "x": 520,
+      "y": 0,
+      "width": 340,
+      "height": 170,
+      "color": "3"
+    },
+    {
+      "id": "route",
+      "type": "file",
+      "file": "03 - MOCs/Routing MOC.md",
+      "x": 520,
+      "y": 250,
+      "width": 340,
+      "height": 170,
+      "color": "1"
+    },
+    {
+      "id": "vlan",
+      "type": "file",
+      "file": "03 - MOCs/VLANs MOC.md",
+      "x": 520,
+      "y": 500,
+      "width": 340,
+      "height": 170,
+      "color": "6"
+    },
+    {
+      "id": "l01",
+      "type": "file",
+      "file": "01 - Lessons/01 - Network Devices.md",
+      "x": 1050,
+      "y": -560,
+      "width": 380,
+      "height": 150
+    },
+    {
+      "id": "l02",
+      "type": "file",
+      "file": "01 - Lessons/02 - Interfaces and Cables.md",
+      "x": 1050,
+      "y": -370,
+      "width": 380,
+      "height": 150
+    },
+    {
+      "id": "l03",
+      "type": "file",
+      "file": "01 - Lessons/03 - TCP-IP and OSI Models.md",
+      "x": 1050,
+      "y": -180,
+      "width": 380,
+      "height": 150
+    },
+    {
+      "id": "l04",
+      "type": "file",
+      "file": "01 - Lessons/04 - Cisco IOS CLI.md",
+      "x": 1050,
+      "y": 10,
+      "width": 380,
+      "height": 150
+    },
+    {
+      "id": "l05",
+      "type": "file",
+      "file": "01 - Lessons/05 - Ethernet LAN Switching Part 1.md",
+      "x": 1050,
+      "y": -330,
+      "width": 380,
+      "height": 150
+    },
+    {
+      "id": "l06",
+      "type": "file",
+      "file": "01 - Lessons/06 - Ethernet LAN Switching Part 2 and ARP.md",
+      "x": 1050,
+      "y": -140,
+      "width": 380,
+      "height": 150
+    },
+    {
+      "id": "l07",
+      "type": "file",
+      "file": "01 - Lessons/07 - IPv4 Addressing Part 1.md",
+      "x": 1050,
+      "y": -100,
+      "width": 380,
+      "height": 150
+    },
+    {
+      "id": "l08",
+      "type": "file",
+      "file": "01 - Lessons/08 - IPv4 Addressing Part 2.md",
+      "x": 1050,
+      "y": 90,
+      "width": 380,
+      "height": 150
+    },
+    {
+      "id": "l09",
+      "type": "file",
+      "file": "01 - Lessons/09 - Switch Interfaces.md",
+      "x": 1050,
+      "y": 50,
+      "width": 380,
+      "height": 150
+    },
+    {
+      "id": "l10",
+      "type": "file",
+      "file": "01 - Lessons/10 - IPv4 Header.md",
+      "x": 1050,
+      "y": 280,
+      "width": 380,
+      "height": 150
+    },
+    {
+      "id": "l11A",
+      "type": "file",
+      "file": "01 - Lessons/11A - Routing Fundamentals.md",
+      "x": 1050,
+      "y": 190,
+      "width": 380,
+      "height": 150
+    },
+    {
+      "id": "l11B",
+      "type": "file",
+      "file": "01 - Lessons/11B - Static Routing.md",
+      "x": 1050,
+      "y": 380,
+      "width": 380,
+      "height": 150
+    },
+    {
+      "id": "l12",
+      "type": "file",
+      "file": "01 - Lessons/12 - Life of a Packet.md",
+      "x": 1050,
+      "y": 570,
+      "width": 380,
+      "height": 150
+    },
+    {
+      "id": "l13",
+      "type": "file",
+      "file": "01 - Lessons/13 - Subnetting Part 1.md",
+      "x": 1050,
+      "y": 470,
+      "width": 380,
+      "height": 150
+    },
+    {
+      "id": "l14",
+      "type": "file",
+      "file": "01 - Lessons/14 - Subnetting Part 2.md",
+      "x": 1050,
+      "y": 660,
+      "width": 380,
+      "height": 150
+    },
+    {
+      "id": "l15",
+      "type": "file",
+      "file": "01 - Lessons/15 - Subnetting Part 3 - VLSM.md",
+      "x": 1050,
+      "y": 850,
+      "width": 380,
+      "height": 150
+    },
+    {
+      "id": "l16",
+      "type": "file",
+      "file": "01 - Lessons/16 - VLANs Part 1.md",
+      "x": 1050,
+      "y": 440,
+      "width": 380,
+      "height": 150
+    },
+    {
+      "id": "l17",
+      "type": "file",
+      "file": "01 - Lessons/17 - VLANs Part 2.md",
+      "x": 1050,
+      "y": 630,
+      "width": 380,
+      "height": 150
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-home-fund",
+      "fromNode": "home",
+      "fromSide": "right",
+      "toNode": "fund",
+      "toSide": "left"
+    },
+    {
+      "id": "e-home-eth",
+      "fromNode": "home",
+      "fromSide": "right",
+      "toNode": "eth",
+      "toSide": "left"
+    },
+    {
+      "id": "e-home-ipv4",
+      "fromNode": "home",
+      "fromSide": "right",
+      "toNode": "ipv4",
+      "toSide": "left"
+    },
+    {
+      "id": "e-home-route",
+      "fromNode": "home",
+      "fromSide": "right",
+      "toNode": "route",
+      "toSide": "left"
+    },
+    {
+      "id": "e-home-vlan",
+      "fromNode": "home",
+      "fromSide": "right",
+      "toNode": "vlan",
+      "toSide": "left"
+    },
+    {
+      "id": "e-fund-01",
+      "fromNode": "fund",
+      "fromSide": "right",
+      "toNode": "l01",
+      "toSide": "left"
+    },
+    {
+      "id": "e-fund-02",
+      "fromNode": "fund",
+      "fromSide": "right",
+      "toNode": "l02",
+      "toSide": "left"
+    },
+    {
+      "id": "e-fund-03",
+      "fromNode": "fund",
+      "fromSide": "right",
+      "toNode": "l03",
+      "toSide": "left"
+    },
+    {
+      "id": "e-fund-04",
+      "fromNode": "fund",
+      "fromSide": "right",
+      "toNode": "l04",
+      "toSide": "left"
+    },
+    {
+      "id": "e-eth-05",
+      "fromNode": "eth",
+      "fromSide": "right",
+      "toNode": "l05",
+      "toSide": "left"
+    },
+    {
+      "id": "e-eth-06",
+      "fromNode": "eth",
+      "fromSide": "right",
+      "toNode": "l06",
+      "toSide": "left"
+    },
+    {
+      "id": "e-ipv4-07",
+      "fromNode": "ipv4",
+      "fromSide": "right",
+      "toNode": "l07",
+      "toSide": "left"
+    },
+    {
+      "id": "e-ipv4-08",
+      "fromNode": "ipv4",
+      "fromSide": "right",
+      "toNode": "l08",
+      "toSide": "left"
+    },
+    {
+      "id": "e-eth-09",
+      "fromNode": "eth",
+      "fromSide": "right",
+      "toNode": "l09",
+      "toSide": "left"
+    },
+    {
+      "id": "e-ipv4-10",
+      "fromNode": "ipv4",
+      "fromSide": "right",
+      "toNode": "l10",
+      "toSide": "left"
+    },
+    {
+      "id": "e-route-11A",
+      "fromNode": "route",
+      "fromSide": "right",
+      "toNode": "l11A",
+      "toSide": "left"
+    },
+    {
+      "id": "e-route-11B",
+      "fromNode": "route",
+      "fromSide": "right",
+      "toNode": "l11B",
+      "toSide": "left"
+    },
+    {
+      "id": "e-route-12",
+      "fromNode": "route",
+      "fromSide": "right",
+      "toNode": "l12",
+      "toSide": "left"
+    },
+    {
+      "id": "e-ipv4-13",
+      "fromNode": "ipv4",
+      "fromSide": "right",
+      "toNode": "l13",
+      "toSide": "left"
+    },
+    {
+      "id": "e-ipv4-14",
+      "fromNode": "ipv4",
+      "fromSide": "right",
+      "toNode": "l14",
+      "toSide": "left"
+    },
+    {
+      "id": "e-ipv4-15",
+      "fromNode": "ipv4",
+      "fromSide": "right",
+      "toNode": "l15",
+      "toSide": "left"
+    },
+    {
+      "id": "e-vlan-16",
+      "fromNode": "vlan",
+      "fromSide": "right",
+      "toNode": "l16",
+      "toSide": "left"
+    },
+    {
+      "id": "e-vlan-17",
+      "fromNode": "vlan",
+      "fromSide": "right",
+      "toNode": "l17",
+      "toSide": "left"
+    }
+  ]
+}

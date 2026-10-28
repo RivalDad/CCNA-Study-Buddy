@@ -1,0 +1,18 @@
+/* Optional CCNA notebook-style callout palette.
+   Copy to .obsidian/snippets/ccna-notes.css and enable in Appearance. */
+
+.callout[data-callout="info"] {
+  --callout-color: 65, 105, 225;
+}
+.callout[data-callout="success"] {
+  --callout-color: 46, 139, 87;
+}
+.callout[data-callout="warning"] {
+  --callout-color: 230, 126, 34;
+}
+.callout[data-callout="example"] {
+  --callout-color: 128, 90, 213;
+}
+.callout[data-callout="danger"] {
+  --callout-color: 200, 60, 60;
+}

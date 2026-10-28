@@ -1,0 +1,16 @@
+# Obsidian settings and plugin data
+.obsidian/
+
+# Temporary files
+.trash/
+*.tmp
+*.log
+
+# Operating system files
+Thumbs.db
+.DS_Store
+
+# Common secrets
+.env
+*.pem
+*.key
